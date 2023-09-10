@@ -1,12 +1,12 @@
 # News homepage
 
-![https://divchico.github.io/NewsHomepage/](https://divchico.github.io/NewsHomepage/)
+[https://divchico.github.io/NewsHomepage/](https://divchico.github.io/NewsHomepage/)
 
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+[https://divchico.github.io/NewsHomepage/](https://divchico.github.io/NewsHomepage/) challenges help you improve your coding skills by building realistic projects.
 
 **To do this challenge, you need a good understanding of HTML and CSS, and basic JavaScript.**
 
